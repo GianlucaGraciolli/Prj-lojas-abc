@@ -1,4 +1,9 @@
-ul{
+ul {
     color: aqua;
     background-color: bisque;
+    gap: 48px;
+}
+
+body {
+    width: 80;
 }
