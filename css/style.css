@@ -1,6 +1,18 @@
+<<<<<<< HEAD
 @media screen and (max-width: 600px) {
     body {
         background-color: brown;
         color: #fff;
     }
 }      
+=======
+ul {
+    color: aqua;
+    background-color: bisque;
+    gap: 48px;
+}
+
+body {
+    width: 80;
+}
+>>>>>>> carrinho
